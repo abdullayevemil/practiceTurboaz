@@ -15,6 +15,7 @@ public class VehicleController : Controller
     public VehicleController(IVehicleRepository vehicleRepository) => this.vehicleRepository = vehicleRepository;
 
     [HttpGet]
+    [AllowAnonymous]
     [ActionName("Index")]
     [Route("[controller]")]
     [Route("[controller]/[action]")]
@@ -26,6 +27,7 @@ public class VehicleController : Controller
     }
 
     [HttpGet]
+    [AllowAnonymous]
     [ActionName("Details")]
     [Route("[controller]/{id}")]
     [Route("[controller]/Index/{id}")]

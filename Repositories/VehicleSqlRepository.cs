@@ -11,7 +11,33 @@ public class VehicleSqlRepository : IVehicleRepository
 
     public VehicleSqlRepository(MyDbContext dbContext) => this.dbContext = dbContext;
 
-    public IEnumerable<Vehicle> GetAllVehicles() => this.dbContext.Vehicles.AsEnumerable();
+    public IEnumerable<Vehicle> GetAllVehicles()
+    {
+        return this.dbContext.Vehicles.AsEnumerable();
+    }
+
+    public async Task<VehiclesMainInformation> GetVehiclesMainInformation()
+    {
+        var vehiclesCount = this.dbContext.Vehicles.AsQueryable().Count();
+
+        var prices = this.dbContext.Vehicles.Select(vehicle => vehicle.Price);
+
+        var minimalPrice = await prices.MinAsync();
+
+        var maximalPrice = await prices.MaxAsync();
+
+        var averagePrice = await prices.AverageAsync();
+
+        var vehiclesInformation = new VehiclesMainInformation
+        {
+            Count = vehiclesCount,
+            MinimalPrice = minimalPrice,
+            MaximalPrice = maximalPrice,
+            AveragePrice = averagePrice
+        };
+
+        return vehiclesInformation;
+    }
 
     public async Task<Vehicle?> GetVehicleByIdAsync(int id)
     {

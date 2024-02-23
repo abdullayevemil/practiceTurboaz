@@ -5,6 +5,7 @@ namespace Turbo.az.Repositories.Base;
 public interface IVehicleRepository
 {
     IEnumerable<Vehicle> GetAllVehicles();
+    Task<VehiclesMainInformation> GetVehiclesMainInformation();
     Task<Vehicle?> GetVehicleByIdAsync(int id);
     IEnumerable<Vehicle?> GetUserVehicles(string userLogin);
     Task InsertVehicleAsync(Vehicle vehicle);

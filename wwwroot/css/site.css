@@ -415,7 +415,7 @@ a:hover {
   flex-direction: row;
 }
 
-.vehicle-details,
+.vehicle-details > p,
 .user-details > p {
   display: inline;
 }

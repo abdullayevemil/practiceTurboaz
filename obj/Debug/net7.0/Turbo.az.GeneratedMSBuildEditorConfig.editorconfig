@@ -9,75 +9,73 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Turbo.az
 build_property.RootNamespace = Turbo.az
-build_property.ProjectDir = /Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = C:\Users\Abdu_xj50\Desktop\asp.net proj\practiceTurboaz\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az
+build_property.MSBuildProjectDirectory = C:\Users\Abdu_xj50\Desktop\asp.net proj\practiceTurboaz
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/emil/Documents/Programming/c\#/asp.net/IdentityApp/CRUD/Turbo.az/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[C:/Users/Abdu_xj50/Desktop/asp.net proj/practiceTurboaz/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/emil/Documents/Programming/c\#/asp.net/IdentityApp/CRUD/Turbo.az/Views/Home/Main.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9NYWluLmNzaHRtbA==
+[C:/Users/Abdu_xj50/Desktop/asp.net proj/practiceTurboaz/Views/Home/Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYWluLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/emil/Documents/Programming/c\#/asp.net/IdentityApp/CRUD/Turbo.az/Views/Identity/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSWRlbnRpdHkvTG9naW4uY3NodG1s
+[C:/Users/Abdu_xj50/Desktop/asp.net proj/practiceTurboaz/Views/Identity/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWRlbnRpdHlcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/emil/Documents/Programming/c\#/asp.net/IdentityApp/CRUD/Turbo.az/Views/Identity/Register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSWRlbnRpdHkvUmVnaXN0ZXIuY3NodG1s
+[C:/Users/Abdu_xj50/Desktop/asp.net proj/practiceTurboaz/Views/Identity/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWRlbnRpdHlcUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/emil/Documents/Programming/c\#/asp.net/IdentityApp/CRUD/Turbo.az/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+[C:/Users/Abdu_xj50/Desktop/asp.net proj/practiceTurboaz/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/emil/Documents/Programming/c\#/asp.net/IdentityApp/CRUD/Turbo.az/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[C:/Users/Abdu_xj50/Desktop/asp.net proj/practiceTurboaz/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/emil/Documents/Programming/c\#/asp.net/IdentityApp/CRUD/Turbo.az/Views/User/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9JbmRleC5jc2h0bWw=
+[C:/Users/Abdu_xj50/Desktop/asp.net proj/practiceTurboaz/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/emil/Documents/Programming/c\#/asp.net/IdentityApp/CRUD/Turbo.az/Views/User/UserInfo.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9Vc2VySW5mby5jc2h0bWw=
+[C:/Users/Abdu_xj50/Desktop/asp.net proj/practiceTurboaz/Views/User/UserInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxVc2VySW5mby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/emil/Documents/Programming/c\#/asp.net/IdentityApp/CRUD/Turbo.az/Views/Vehicle/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmVoaWNsZS9DcmVhdGUuY3NodG1s
+[C:/Users/Abdu_xj50/Desktop/asp.net proj/practiceTurboaz/Views/Vehicle/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/emil/Documents/Programming/c\#/asp.net/IdentityApp/CRUD/Turbo.az/Views/Vehicle/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmVoaWNsZS9EZXRhaWxzLmNzaHRtbA==
+[C:/Users/Abdu_xj50/Desktop/asp.net proj/practiceTurboaz/Views/Vehicle/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/emil/Documents/Programming/c\#/asp.net/IdentityApp/CRUD/Turbo.az/Views/Vehicle/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmVoaWNsZS9JbmRleC5jc2h0bWw=
+[C:/Users/Abdu_xj50/Desktop/asp.net proj/practiceTurboaz/Views/Vehicle/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/emil/Documents/Programming/c\#/asp.net/IdentityApp/CRUD/Turbo.az/Views/Vehicle/Update.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmVoaWNsZS9VcGRhdGUuY3NodG1s
+[C:/Users/Abdu_xj50/Desktop/asp.net proj/practiceTurboaz/Views/Vehicle/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZVxVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/emil/Documents/Programming/c\#/asp.net/IdentityApp/CRUD/Turbo.az/Views/Vehicle/UserVehicles.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmVoaWNsZS9Vc2VyVmVoaWNsZXMuY3NodG1s
+[C:/Users/Abdu_xj50/Desktop/asp.net proj/practiceTurboaz/Views/Vehicle/UserVehicles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZVxVc2VyVmVoaWNsZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/emil/Documents/Programming/c\#/asp.net/IdentityApp/CRUD/Turbo.az/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[C:/Users/Abdu_xj50/Desktop/asp.net proj/practiceTurboaz/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/emil/Documents/Programming/c\#/asp.net/IdentityApp/CRUD/Turbo.az/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+[C:/Users/Abdu_xj50/Desktop/asp.net proj/practiceTurboaz/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/emil/Documents/Programming/c\#/asp.net/IdentityApp/CRUD/Turbo.az/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-y0h4vukdb6
+[C:/Users/Abdu_xj50/Desktop/asp.net proj/practiceTurboaz/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-skpgfxhk32

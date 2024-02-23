@@ -50,16 +50,6 @@
                                     <i class="material-icons">home</i>
                                 </a>
                             </li>
-                            <li class="nav-item">
-                                <a class="neon nav-link text-dark" asp-area="" asp-controller="Vehicle" asp-action="Index">
-                                    <span></span>
-                                    <span></span>
-                                    <span></span>
-                                    <span></span>
-                                    Vehicles
-                                    <i class="material-icons">directions_car</i>
-                                </a>
-                            </li>
                             @if (isAdmin)
                             {
                                 <li class="nav-item">
@@ -87,6 +77,16 @@
                                 </a>
                             </li>
                         }
+                        <li class="nav-item">
+                            <a class="neon nav-link text-dark" asp-area="" asp-controller="Vehicle" asp-action="Index">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                                Vehicles
+                                <i class="material-icons">directions_car</i>
+                            </a>
+                        </li>
                     </ul>
 
                     @if (isAuthenticated)
@@ -118,11 +118,6 @@
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2024 - Turbo.az
-        </div>
-    </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>

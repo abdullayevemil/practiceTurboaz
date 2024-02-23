@@ -12,8 +12,8 @@ using Turbo.az.Data;
 namespace Turbo.az.Migrations
 {
     [DbContext(typeof(MyDbContext))]
-    [Migration("20240219215502_Init")]
-    partial class Init
+    [Migration("20240223154227_InitialCreate")]
+    partial class InitialCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
