@@ -1,0 +1,86 @@
+@model Turbo.az.Models.Vehicle;
+
+@{
+    ViewData["Title"] = "Update Vehicle";
+
+    var id = Model.Id;
+    var brandName = Model.BrandName;
+    var modelName = Model.ModelName;
+    var price = Model.Price;
+    var engineVolume = Model.EngineVolume;
+    var imageUrl = Model.ImageUrl;
+    var horsePowers = Model.HorsePowers;
+    var seatsCount = Model.SeatsCount;
+    var color = Model.Color;
+    var transmissionType = Model.TransmissionType;
+    var drivetrain = Model.Drivetrain;
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<a asp-controller="Vehicle" asp-action="Index">All vehicles</a>
+
+<form asp-controller="Vehicle" asp-action="Update">
+    <div class="mb-3">
+        <label asp-for="@brandName" class="form-label">Brand: </label>
+        <input type="text" asp-for="@brandName" class="form-control">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="@modelName" class="form-label">Model: </label>
+        <input type="text" asp-for="@modelName" class="form-control">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="@price" class="form-label">Price($): </label>
+        <input type="number" asp-for="@price" class="form-control" \>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="@engineVolume" class="form-label">Engine Volume(sm<sup>3</sup>): </label>
+        <input type="number" asp-for="@engineVolume" class="form-control">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="@imageUrl" class="form-label">Image Url: </label>
+        <input type="text" asp-for="@imageUrl" class="form-control">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="@horsePowers" class="form-label">Horse Powers: </label>
+        <input type="text" asp-for="@horsePowers" class="form-control">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="@seatsCount" class="form-label">Seats Count: </label>
+        <input type="text" asp-for="@seatsCount" class="form-control">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="@color" class="form-label">Color: </label>
+        <input type="text" asp-for="@color" class="form-control">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="@transmissionType" class="form-label">Transmission Type: </label>
+        <select id="transmission-type" asp-for="@transmissionType">
+            <option value=1>Automatic</option>
+            <option value=2>Manual</option>
+            <option value=3>Single Speed</option>
+            <option value=4>Continuously Variable</option>
+        </select>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="@drivetrain" class="form-label">Drivetrain: </label>
+        <select id="drivetrain" asp-for="@drivetrain">
+            <option value=1>RWD</option>
+            <option value=2>FWD</option>
+            <option value=3>AWD</option>
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-success" onclick="updateVehicle(@id)">Update</button>
+</form>
+
+<script src="~/js/VehicleOperations.js"></script>

@@ -1,0 +1,322 @@
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/obj/Debug/net7.0/Turbo.az.csproj.AssemblyReference.cache
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/obj/Debug/net7.0/Turbo.az.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/obj/Debug/net7.0/Turbo.az.AssemblyInfoInputs.cache
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/obj/Debug/net7.0/Turbo.az.AssemblyInfo.cs
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/obj/Debug/net7.0/Turbo.az.csproj.CoreCompileInputs.cache
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/obj/Debug/net7.0/Turbo.az.MvcApplicationPartsAssemblyInfo.cache
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/obj/Debug/net7.0/Turbo.az.RazorAssemblyInfo.cache
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/obj/Debug/net7.0/Turbo.az.RazorAssemblyInfo.cs
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/obj/Debug/net7.0/Turbo.az.sourcelink.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/appsettings.Development.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/appsettings.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/Turbo.az.staticwebassets.runtime.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/Turbo.az
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/Turbo.az.deps.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/Turbo.az.runtimeconfig.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/Turbo.az.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/Turbo.az.pdb
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/Azure.Core.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/Azure.Identity.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/Humanizer.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/System.CodeDom.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/obj/Debug/net7.0/staticwebassets.build.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/obj/Debug/net7.0/staticwebassets.development.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/obj/Debug/net7.0/staticwebassets/msbuild.Turbo.az.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/obj/Debug/net7.0/staticwebassets/msbuild.build.Turbo.az.props
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Turbo.az.props
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Turbo.az.props
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/obj/Debug/net7.0/scopedcss/bundle/Turbo.az.styles.css
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/obj/Debug/net7.0/scopedcss/projectbundle/Turbo.az.bundle.scp.css
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/obj/Debug/net7.0/Turbo.az.csproj.CopyComplete
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/obj/Debug/net7.0/Turbo.az.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/obj/Debug/net7.0/refint/Turbo.az.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/obj/Debug/net7.0/Turbo.az.pdb
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/obj/Debug/net7.0/Turbo.az.genruntimeconfig.cache
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/Turbo.az/obj/Debug/net7.0/ref/Turbo.az.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/appsettings.Development.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/appsettings.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Turbo.az.staticwebassets.runtime.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Turbo.az
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Turbo.az.deps.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Turbo.az.runtimeconfig.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Turbo.az.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Turbo.az.pdb
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Azure.Core.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Azure.Identity.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Humanizer.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/System.CodeDom.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/obj/Debug/net7.0/Turbo.az.csproj.AssemblyReference.cache
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/obj/Debug/net7.0/Turbo.az.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/obj/Debug/net7.0/Turbo.az.AssemblyInfoInputs.cache
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/obj/Debug/net7.0/Turbo.az.AssemblyInfo.cs
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/obj/Debug/net7.0/Turbo.az.csproj.CoreCompileInputs.cache
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/obj/Debug/net7.0/Turbo.az.MvcApplicationPartsAssemblyInfo.cache
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/obj/Debug/net7.0/Turbo.az.RazorAssemblyInfo.cache
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/obj/Debug/net7.0/Turbo.az.RazorAssemblyInfo.cs
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/obj/Debug/net7.0/Turbo.az.sourcelink.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/obj/Debug/net7.0/staticwebassets.build.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/obj/Debug/net7.0/staticwebassets.development.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/obj/Debug/net7.0/staticwebassets/msbuild.Turbo.az.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/obj/Debug/net7.0/staticwebassets/msbuild.build.Turbo.az.props
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Turbo.az.props
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Turbo.az.props
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/obj/Debug/net7.0/scopedcss/bundle/Turbo.az.styles.css
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/obj/Debug/net7.0/scopedcss/projectbundle/Turbo.az.bundle.scp.css
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/obj/Debug/net7.0/Turbo.az.csproj.CopyComplete
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/obj/Debug/net7.0/Turbo.az.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/obj/Debug/net7.0/refint/Turbo.az.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/obj/Debug/net7.0/Turbo.az.pdb
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/obj/Debug/net7.0/Turbo.az.genruntimeconfig.cache
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/ASP.NET identity/Turbo.az/obj/Debug/net7.0/ref/Turbo.az.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/appsettings.Development.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/appsettings.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Turbo.az.staticwebassets.runtime.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Turbo.az
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Turbo.az.deps.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Turbo.az.runtimeconfig.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Turbo.az.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Turbo.az.pdb
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Azure.Core.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Azure.Identity.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Humanizer.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/System.CodeDom.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/obj/Debug/net7.0/Turbo.az.csproj.AssemblyReference.cache
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/obj/Debug/net7.0/Turbo.az.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/obj/Debug/net7.0/Turbo.az.AssemblyInfoInputs.cache
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/obj/Debug/net7.0/Turbo.az.AssemblyInfo.cs
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/obj/Debug/net7.0/Turbo.az.csproj.CoreCompileInputs.cache
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/obj/Debug/net7.0/Turbo.az.MvcApplicationPartsAssemblyInfo.cache
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/obj/Debug/net7.0/Turbo.az.RazorAssemblyInfo.cache
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/obj/Debug/net7.0/Turbo.az.RazorAssemblyInfo.cs
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/obj/Debug/net7.0/Turbo.az.sourcelink.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/obj/Debug/net7.0/staticwebassets.build.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/obj/Debug/net7.0/staticwebassets.development.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/obj/Debug/net7.0/staticwebassets/msbuild.Turbo.az.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/obj/Debug/net7.0/staticwebassets/msbuild.build.Turbo.az.props
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Turbo.az.props
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Turbo.az.props
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/obj/Debug/net7.0/scopedcss/bundle/Turbo.az.styles.css
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/obj/Debug/net7.0/scopedcss/projectbundle/Turbo.az.bundle.scp.css
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/obj/Debug/net7.0/Turbo.az.csproj.CopyComplete
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/obj/Debug/net7.0/Turbo.az.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/obj/Debug/net7.0/refint/Turbo.az.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/obj/Debug/net7.0/Turbo.az.pdb
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/obj/Debug/net7.0/Turbo.az.genruntimeconfig.cache
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/authorization/Turbo.az/obj/Debug/net7.0/ref/Turbo.az.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/appsettings.Development.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/appsettings.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Turbo.az.staticwebassets.runtime.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Turbo.az
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Turbo.az.deps.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Turbo.az.runtimeconfig.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Turbo.az.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Turbo.az.pdb
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Azure.Core.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Azure.Identity.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Humanizer.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/System.CodeDom.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/obj/Debug/net7.0/Turbo.az.csproj.AssemblyReference.cache
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/obj/Debug/net7.0/Turbo.az.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/obj/Debug/net7.0/Turbo.az.AssemblyInfoInputs.cache
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/obj/Debug/net7.0/Turbo.az.AssemblyInfo.cs
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/obj/Debug/net7.0/Turbo.az.csproj.CoreCompileInputs.cache
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/obj/Debug/net7.0/Turbo.az.MvcApplicationPartsAssemblyInfo.cache
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/obj/Debug/net7.0/Turbo.az.RazorAssemblyInfo.cache
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/obj/Debug/net7.0/Turbo.az.RazorAssemblyInfo.cs
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/obj/Debug/net7.0/Turbo.az.sourcelink.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/obj/Debug/net7.0/staticwebassets.build.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/obj/Debug/net7.0/staticwebassets.development.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/obj/Debug/net7.0/staticwebassets/msbuild.Turbo.az.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/obj/Debug/net7.0/staticwebassets/msbuild.build.Turbo.az.props
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Turbo.az.props
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Turbo.az.props
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/obj/Debug/net7.0/scopedcss/bundle/Turbo.az.styles.css
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/obj/Debug/net7.0/scopedcss/projectbundle/Turbo.az.bundle.scp.css
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/obj/Debug/net7.0/Turbo.az.csproj.CopyComplete
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/obj/Debug/net7.0/Turbo.az.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/obj/Debug/net7.0/refint/Turbo.az.dll
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/obj/Debug/net7.0/Turbo.az.pdb
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/obj/Debug/net7.0/Turbo.az.genruntimeconfig.cache
+/Users/emil/Documents/Programming/c#/asp.net/IdentityApp/CRUD/Turbo.az/obj/Debug/net7.0/ref/Turbo.az.dll
